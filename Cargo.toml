@@ -19,11 +19,12 @@ name = "tide"
 path = "src/tide.rs"
 
 [dependencies]
-sincere = "0.6.6"
 serde_json = "1.0"
 serde = { version = "1.0", features = ["derive"] }
 sqlite = "0.25.3"
 num_cpus = "1.13.0"
+
+sincere = "0.6.6"
 
 warp = "0.2"
 tokio = { version = "0.2", features = ["full"] }
