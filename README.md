@@ -1,2 +1,2 @@
 # location
-China location query service
+A Chinese location query service
