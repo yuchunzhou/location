@@ -26,5 +26,5 @@ num_cpus = "1.13.0"
 sincere = "0.6.6"
 warp = "0.2"
 tokio = { version = "0.2", features = ["full"] }
-tide = "0.14.0"
+tide = "0.16.0"
 async-std = { version = "1.6.0", features = ["attributes"] }
